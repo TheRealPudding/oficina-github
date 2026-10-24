@@ -1,4 +1,4 @@
-# oficina-github - v4
+# oficina-github - m3
 
 Site pessoal criado na Oficina de GitHub da Semana de Informática DCOM 2026.
 
